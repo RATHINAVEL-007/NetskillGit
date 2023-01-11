@@ -1,2 +1,1 @@
 Saibal is learning git.
-Sujit is also learning git.
